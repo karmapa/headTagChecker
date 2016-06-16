@@ -1,0 +1,20 @@
+{
+  "name": "head-checker",
+  "version": "0.0.1",
+  "description": "Check format and hierarchy of head1 head2 head3 head4 tags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "6.9.1",
+    "glob": "7.0.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "6.9.0",
+    "babel-preset-stage-0": "6.5.0",
+    "babel-register": "6.9.0"
+  }
+}
